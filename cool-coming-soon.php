@@ -11,6 +11,9 @@ License: GPL v2 or higher
 License URI: License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
+if( !defined( 'ABSPATH') )
+    exit();
+
 define( 'CCS_VERSION', '1.0'); // Plugin Version Number
 
 function cool_coming_soon_nav(){
