@@ -36,8 +36,8 @@ If you found any bug then [report here][contact], I’ll try to fix it as soon a
 [<img align="left" alt="AtlasGondal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[contact]: https://atlasgondal.com/contact-me/?utm_source=self&utm_medium=wp&utm_campaign=cool-coming-soon&utm_term=github-description
-[website]: https://atlasgondal.com/?utm_source=self&utm_medium=wp&utm_campaign=cool-coming-soon&utm_term=github-description
+[contact]: https://atlasgondal.com/contact-me/?utm_source=self&utm_medium=github&utm_campaign=cool-coming-soon&utm_term=description
+[website]: https://atlasgondal.com/?utm_source=self&utm_medium=github&utm_campaign=cool-coming-soon&utm_term=description
 [github]: https://github.com/AtlasGondal/
 [twitter]: https://twitter.com/Atlas_Gondal/
 [youtube]: https://www.youtube.com/AtlasGondal/
