@@ -1,7 +1,7 @@
-[![Cool-Coming-Soon](https://socialify.git.ci/AtlasGondal/Cool-Coming-Soon/image?description=1&font=KoHo&forks=1&issues=1&language=1&logo=https%3A%2F%2Fps.w.org%2Fcool-coming-soon%2Fassets%2Ficon-256x256.png&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Light)][plugin-url]
+[![cool-coming-soon](https://socialify.git.ci/AtlasGondal/Cool-Coming-Soon/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fdevicons%2Fdevicon%2Fmaster%2Ficons%2Fwordpress%2Fwordpress-original.svg&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1)][plugin-url]
 
 # Cool Coming Soon
-quick way to setup maintenance or coming soon mode in wordpress websites
+quick way to setup maintenance or coming soon mode of wordpress websites
 
 ## Description
 
