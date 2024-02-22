@@ -12,6 +12,7 @@ This plugin will add a page called “Cool Coming Soon” under Settings. You ca
 ## Main Features
 - Easy to use
 - Full control over display (Title, Logo and description)
+- Auto Launch Feature
 - Several Cool Built-in Backgrounds
 - Super Fast
 
